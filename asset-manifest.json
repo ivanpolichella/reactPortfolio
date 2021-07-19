@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.e298502f.chunk.css",
-    "main.js": "/static/js/main.0d495bee.chunk.js",
-    "main.js.map": "/static/js/main.0d495bee.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.35c576cf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.35c576cf.js.map",
-    "static/css/2.2d7f9c1e.chunk.css": "/static/css/2.2d7f9c1e.chunk.css",
-    "static/js/2.a146136c.chunk.js": "/static/js/2.a146136c.chunk.js",
-    "static/js/2.a146136c.chunk.js.map": "/static/js/2.a146136c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.2d7f9c1e.chunk.css.map": "/static/css/2.2d7f9c1e.chunk.css.map",
-    "static/css/main.e298502f.chunk.css.map": "/static/css/main.e298502f.chunk.css.map",
-    "static/js/2.a146136c.chunk.js.LICENSE.txt": "/static/js/2.a146136c.chunk.js.LICENSE.txt",
-    "static/media/Hello.690bd2dd.jpg": "/static/media/Hello.690bd2dd.jpg",
-    "static/media/My-logo4.071f9227.ico": "/static/media/My-logo4.071f9227.ico",
-    "static/media/Pencil.7d7824c6.jpg": "/static/media/Pencil.7d7824c6.jpg",
-    "static/media/ivpocv.aef442f8.pdf": "/static/media/ivpocv.aef442f8.pdf",
-    "static/media/laptop1.78462e1e.jpg": "/static/media/laptop1.78462e1e.jpg"
+    "main.css": "//ivanpolichella.github.io/reactPortfolio/static/css/main.e298502f.chunk.css",
+    "main.js": "//ivanpolichella.github.io/reactPortfolio/static/js/main.128cf8ad.chunk.js",
+    "main.js.map": "//ivanpolichella.github.io/reactPortfolio/static/js/main.128cf8ad.chunk.js.map",
+    "runtime-main.js": "//ivanpolichella.github.io/reactPortfolio/static/js/runtime-main.5c0c3dc6.js",
+    "runtime-main.js.map": "//ivanpolichella.github.io/reactPortfolio/static/js/runtime-main.5c0c3dc6.js.map",
+    "static/css/2.2d7f9c1e.chunk.css": "//ivanpolichella.github.io/reactPortfolio/static/css/2.2d7f9c1e.chunk.css",
+    "static/js/2.cc941f58.chunk.js": "//ivanpolichella.github.io/reactPortfolio/static/js/2.cc941f58.chunk.js",
+    "static/js/2.cc941f58.chunk.js.map": "//ivanpolichella.github.io/reactPortfolio/static/js/2.cc941f58.chunk.js.map",
+    "index.html": "//ivanpolichella.github.io/reactPortfolio/index.html",
+    "static/css/2.2d7f9c1e.chunk.css.map": "//ivanpolichella.github.io/reactPortfolio/static/css/2.2d7f9c1e.chunk.css.map",
+    "static/css/main.e298502f.chunk.css.map": "//ivanpolichella.github.io/reactPortfolio/static/css/main.e298502f.chunk.css.map",
+    "static/js/2.cc941f58.chunk.js.LICENSE.txt": "//ivanpolichella.github.io/reactPortfolio/static/js/2.cc941f58.chunk.js.LICENSE.txt",
+    "static/media/Hello.690bd2dd.jpg": "//ivanpolichella.github.io/reactPortfolio/static/media/Hello.690bd2dd.jpg",
+    "static/media/My-logo4.071f9227.ico": "//ivanpolichella.github.io/reactPortfolio/static/media/My-logo4.071f9227.ico",
+    "static/media/Pencil.7d7824c6.jpg": "//ivanpolichella.github.io/reactPortfolio/static/media/Pencil.7d7824c6.jpg",
+    "static/media/ivpocv.aef442f8.pdf": "//ivanpolichella.github.io/reactPortfolio/static/media/ivpocv.aef442f8.pdf",
+    "static/media/laptop1.78462e1e.jpg": "//ivanpolichella.github.io/reactPortfolio/static/media/laptop1.78462e1e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.35c576cf.js",
+    "static/js/runtime-main.5c0c3dc6.js",
     "static/css/2.2d7f9c1e.chunk.css",
-    "static/js/2.a146136c.chunk.js",
+    "static/js/2.cc941f58.chunk.js",
     "static/css/main.e298502f.chunk.css",
-    "static/js/main.0d495bee.chunk.js"
+    "static/js/main.128cf8ad.chunk.js"
   ]
 }
