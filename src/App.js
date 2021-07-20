@@ -15,7 +15,7 @@ class App extends Component {
     <Router>
       <div className="App">
           <div className="side">
-            <nav className="navbar side navbar-expand-lg navbar-light p-0" >
+            <nav className="navbar side navbar-expand-lg navbar-dark p-0" >
               <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" style={{zIndex:'1'}}>
                 <span className="navbar-toggler-icon"></span>
               </button>
