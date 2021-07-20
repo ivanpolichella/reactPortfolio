@@ -3,9 +3,9 @@ import './App.css';
 import {BrowserRouter as Router} from 'react-router-dom';
  import Sidebar from './components/sidebar/Sidebar';
 import About from './components/about/About';
-import Education from './components/Education/Education';
+import Education from './components/education/Education';
 import Interest from './components/skills/Interest'
-import CarouselImages from './components/carousel/CarouselImages.js'
+import Intro from './components/intro/Intro'
 
 
 class App extends Component {
@@ -26,8 +26,7 @@ class App extends Component {
           </div>
             <div className="main">
               <div>
-
-                 <CarouselImages />
+                 <Intro />
               </div>
                  <About />
                 <Interest />

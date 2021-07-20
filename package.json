@@ -1,5 +1,4 @@
 {
-  "homepage":"https://https://ivanpolichella.github.io/reactPortfolio/",
   "name": "ivpo",
   "version": "0.1.0",
   "private": false,
@@ -8,15 +7,17 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "animate.css": "^3.7.2",
+    "node-sass": "^4.12.0",
     "react": "^16.12.0",
     "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^16.12.0",
     "react-icons": "^3.9.0",
-    "react-responsive-carousel": "^3.1.51",
+    "react-responsive-carousel": "^3.2.20",
     "react-router-dom": "^5.1.2",
     "react-router-hash-link": "^1.2.2",
     "react-scripts": "^4.0.3",
-    "react-scrollable-anchor": "^0.6.1"
+    "react-scrollable-anchor": "^0.6.1",
+    "react-typed": "^1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
